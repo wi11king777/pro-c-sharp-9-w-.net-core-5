@@ -110,7 +110,7 @@ static void UseApplicationVerbs()
 {  
 //rest omitted for brevity  
 
-Page 757 (at the bottom of the page) should be formatted like this:  
+Page 575 (at the bottom of the page) should be formatted like this:  
 
 Update the Cancel button Click event to the following code:  
 private void cmdCancel_Click(object sender, EventArgs e)  
